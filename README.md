@@ -6,5 +6,5 @@ I work for @Zaid-maker as a CI/CD stuffs and automation.
 
 <!-- WEATHER:START -->
 <h3 align="center">Hello from Lahore province of <img src="https://flagicons.lipis.dev/flags/4x3/pk.svg" width="28" height="21"/></h3>
-<p align="center">Currently, the weather is: <b>18°C, <img src="https://openweathermap.org/img/wn/50d.png" width="28" height="28"> <i>(smoke)</i></b></p>
+<p align="center">Currently, the weather is: <b>20°C, <img src="https://openweathermap.org/img/wn/01d.png" width="28" height="28"> <i>(clear sky)</i></b></p>
 <!-- WEATHER:END -->
